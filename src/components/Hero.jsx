@@ -40,7 +40,7 @@ const Hero = () => {
 
           <div className="relative mx-auto h-[512px]">
             <img
-              src="https://assets.website-files.com/63904f663019b0d8edf8d57c/63915d247ab06a755ee4aaee_magicpattern-KfFmwa7m5VQ-unsplash.jpg"
+              src="https://wallpapercave.com/uwp/uwp4680375.png"
               alt=""
               className="inline-block h-full w-full rounded-xl object-cover sm:rounded-2xl"
             />
